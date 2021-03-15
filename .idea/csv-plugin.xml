@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/jython/output/FLIPFLOP/SA/FLIPFLOP_SA_problemSizes_50_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/KNAPSACK/MIMIC/KNAPSACK_MIMIC_problemSizes_80_2_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/KNAPSACK/MIMIC/KNAPSACK_MIMIC_problemSizes_80_3_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/KNAPSACK/SA/KNAPSACK_SA_problemSizes_80_2_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/KNAPSACK/SA/KNAPSACK_SA_problemSizes_80_4_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/KNAPSACK/SA/KNAPSACK_SA_problemSizes_80_5_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/KNAPSACK/SA/KNAPSACK_SA_problemSizes_90_3_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/BP/NN_Backprop_learningRate_0.00075_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/BP/NN_Backprop_learningRate_0.0075_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/BP/NN_Backprop_learningRate_0.075_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/BP/NN_Backprop_learningRate_0.75_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/GA/NN_GA_mateRate_0.2_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/GA/NN_GA_mateRate_0.4_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/RHC/NN_RHC_restart_10_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/RHC/NN_RHC_restart_60_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/jython/output/NN_OUTPUT/SA/NN_SA_CE_0.7_1_LOG.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
